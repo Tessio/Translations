@@ -1,6 +1,6 @@
 {
     "version": 12,
-    "default_lang": "en_LOL",
+    "default_lang": "es_MX",
     "translations": {
         "en_US": {
             "name": "English (US)",
@@ -14,9 +14,9 @@
             "name": "Brazilian Portuguese",
             "file": "pt_BR.json"
         },
-        "zh_CN": {
-            "name": "Chinese (CN)",
-            "file": "zh_CN.json"
+        "es_MX": {
+            "name": "Español Mexicano",
+            "file": "es_MX.json"
         },
         "zh_TW": {
             "name": "Chinese (TW)",
