@@ -2,25 +2,9 @@
     "version": 12,
     "default_lang": "es_MX",
     "translations": {
-        "en_US": {
-            "name": "English (US)",
-            "file": "en_US.json"
-        },
-        "en_LOL": {
-            "name": "Lolcat",
-            "file": "en_LOL.json"
-        },
-        "pt_BR": {
-            "name": "Brazilian Portuguese",
-            "file": "pt_BR.json"
-        },
         "es_MX": {
             "name": "Español Mexicano",
             "file": "es_MX.json"
-        },
-        "zh_TW": {
-            "name": "Chinese (TW)",
-            "file": "zh_TW.json"
         }
     }
 }
