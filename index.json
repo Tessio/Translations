@@ -1,7 +1,11 @@
 {
-    "version": 21,
+    "version": 22,
     "default_lang": "es_MX",
     "translations": {
+        "en_US": {
+            "name": "English (US)",
+            "file": "en_US.json"
+        },
         "es_MX": {
             "name": "Español Mexicano",
             "file": "es_MX.json"
