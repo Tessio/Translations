@@ -6,6 +6,10 @@
             "name": "English (US)",
             "file": "en_US.json"
         },
+        "ar_LY": {
+            "name": "Arabic (literary)",
+            "file": "ar_LY.json"
+        },
         "es_MX": {
             "name": "Español Mexicano",
             "file": "es_MX.json"
