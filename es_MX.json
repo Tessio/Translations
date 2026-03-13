@@ -4352,6 +4352,14 @@
     "NITRO_ALWAYS_ON_ENABLED": "Nitro siempre activado - activado exitosamente",
     "NITRO_ALWAYS_ON_DISABLED": "Nitro siempre activado desactivado exitosamente",
      "NITRO_PTFX_LOADED": "Efecto cargado, sincronizando con jugadores...",
+    "GUI_TAB_NITRO": "Nitro",
+    "NITRO_PTFX_BUSY": "El efecto ya está activo, por favor espera...",
+     "NITRO_PTFX_LOADING": "Sincronizando efecto con jugadores...",
+    "NITRO_OPTIONS": "Opciones del Nitro",
+     "NITRO_SETTINGS": "Configuración del Nitro",
+     "NITRO_REQUIRED": "Requiere activar el nitro principal primero",
+     "NITRO_REQUIRED_INFO": "Activa el nitro principal para acceder a las opciones adicionales",
      "NITRO_PTFX_SYNCED": "El efecto ahora debería estar cargado para jugadores cercanos"
 }
+
 
